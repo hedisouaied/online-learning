@@ -1,0 +1,38 @@
+[12-Oct-2021 13:59:08 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 13:59:08 UTC] PHP Warning:  imagecreatefromjpeg(): 'smarttec-certificat.jpg' is not a valid JPEG file in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 13:59:08 UTC] PHP Warning:  imagealphablending() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 5
+[12-Oct-2021 13:59:08 UTC] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 6
+[12-Oct-2021 13:59:08 UTC] PHP Warning:  imagecopymerge() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 8
+[12-Oct-2021 13:59:08 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 11
+[12-Oct-2021 13:59:08 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 13
+[12-Oct-2021 14:01:06 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 14:01:06 UTC] PHP Warning:  imagecreatefromjpeg(): 'smarttec-certificat.jpg' is not a valid JPEG file in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 14:01:06 UTC] PHP Warning:  imagecopymerge() expects parameter 2 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 8
+[12-Oct-2021 14:01:06 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 14
+[12-Oct-2021 14:01:30 UTC] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error: Not a JPEG file: starts with 0x89 0x50 in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 14:01:30 UTC] PHP Warning:  imagecreatefromjpeg(): 'smarttec-certificat.jpg' is not a valid JPEG file in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 14:01:30 UTC] PHP Warning:  imagecopymerge() expects parameter 2 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 8
+[12-Oct-2021 14:01:30 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 11
+[12-Oct-2021 14:01:30 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 13
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagecreatefrompng(smarttec-certificat.png): failed to open stream: No such file or directory in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagecreatefrompng(test.jpeg): failed to open stream: No such file or directory in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 3
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagealphablending() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 5
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 6
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagecopymerge() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 8
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 11
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 13
+[12-Oct-2021 14:02:13 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 14
+[12-Oct-2021 14:02:46 UTC] PHP Warning:  imagecreatefrompng(test.jpeg): failed to open stream: No such file or directory in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 3
+[12-Oct-2021 14:02:46 UTC] PHP Warning:  imagecopymerge() expects parameter 2 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 8
+[12-Oct-2021 14:02:46 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 14
+[12-Oct-2021 14:02:59 UTC] PHP Warning:  imagecreatefrompng(test.jpeg): failed to open stream: No such file or directory in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 3
+[12-Oct-2021 14:02:59 UTC] PHP Warning:  imagecopymerge() expects parameter 2 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 8
+[12-Oct-2021 14:02:59 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 14
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagecreatefrompng(): 'smarttec-certificat.png' is not a valid PNG file in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 2
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagecreatefrompng(test.jpeg): failed to open stream: No such file or directory in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 3
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagealphablending() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 5
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagesavealpha() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 6
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagecopymerge() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 8
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 11
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 13
+[12-Oct-2021 14:04:38 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, bool given in /home/tarb45ffpmi1/public_html/phpqrcode/index1.php on line 14

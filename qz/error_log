@@ -1,0 +1,446 @@
+[14-Jun-2021 11:33:47 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:06 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:31 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:34 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:36 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[26-Jul-2021 08:49:51 UTC] PHP Warning:  mysqli_connect(): (42000/1203): User smarttec already has more than 'max_user_connections' active connections in /home/tarb45ffpmi1/public_html/connexion.php on line 2
+[26-Jul-2021 08:49:51 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/connexion.php on line 3
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 17
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 23
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 28
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 36
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 64
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 78
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 92
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 630
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 634
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 671
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 675
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1071
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1092
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1096
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1213
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1229
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1232
+[31-Jul-2021 05:27:10 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:27:10 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:17 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:17 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:18 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:18 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:36 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:36 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 06:08:42 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 06:08:42 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[02-Aug-2021 14:05:33 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[02-Aug-2021 14:05:33 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[25-Aug-2021 15:55:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[25-Aug-2021 15:55:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[25-Aug-2021 15:55:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[25-Aug-2021 15:56:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[25-Aug-2021 15:56:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[25-Aug-2021 15:56:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:32:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:32:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:32:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:32:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:32:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:32:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:33:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:33:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:33:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:38:34 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:38:34 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:38:34 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:46:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:46:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:46:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[07-Oct-2021 14:16:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[07-Oct-2021 14:16:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[07-Oct-2021 14:16:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[07-Oct-2021 14:16:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[07-Oct-2021 14:16:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[07-Oct-2021 14:16:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[21-Oct-2021 11:11:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[21-Oct-2021 11:11:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[21-Oct-2021 11:11:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[17-Nov-2021 09:26:47 UTC] PHP Notice:  Undefined index: step in /home/tarb45ffpmi1/public_html/qz/index.php on line 255
+[17-Nov-2021 09:26:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 09:26:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 09:26:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/qz/index.php on line 74
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tarb45ffpmi1/public_html/qz/index.php on line 74
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Undefined index: step in /home/tarb45ffpmi1/public_html/qz/index.php on line 255
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Undefined variable: array_for in /home/tarb45ffpmi1/public_html/qz/index.php on line 626
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tarb45ffpmi1/public_html/qz/index.php on line 626
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Undefined variable: array_for in /home/tarb45ffpmi1/public_html/qz/index.php on line 637
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/tarb45ffpmi1/public_html/qz/index.php on line 637
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 09:27:03 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 09:27:07 UTC] PHP Notice:  Undefined index: step in /home/tarb45ffpmi1/public_html/qz/index.php on line 255
+[17-Nov-2021 09:27:07 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 09:27:07 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 09:27:07 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 09:28:14 UTC] PHP Notice:  Undefined index: step in /home/tarb45ffpmi1/public_html/qz/index.php on line 255
+[17-Nov-2021 09:28:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 09:28:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 09:28:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 09:30:43 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 09:30:43 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 09:30:43 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 09:30:56 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 09:30:56 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 09:30:56 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 09:31:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 09:31:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 09:31:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 10:22:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 10:22:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 10:22:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 10:31:36 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 10:31:36 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 10:31:36 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 10:32:40 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 10:32:40 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 10:32:40 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 10:36:28 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 10:36:28 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 10:36:28 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 10:52:09 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 10:52:09 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 10:52:09 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[17-Nov-2021 14:07:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[17-Nov-2021 14:07:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[17-Nov-2021 14:07:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 09:00:27 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[18-Nov-2021 09:00:27 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[18-Nov-2021 09:00:27 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 09:31:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[18-Nov-2021 09:31:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[18-Nov-2021 09:31:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 09:59:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[18-Nov-2021 09:59:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[18-Nov-2021 09:59:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 10:00:07 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[18-Nov-2021 10:00:07 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[18-Nov-2021 10:00:07 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 10:00:16 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[18-Nov-2021 10:00:16 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[18-Nov-2021 10:00:16 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 10:00:26 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[18-Nov-2021 10:00:26 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[18-Nov-2021 10:00:26 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 13:03:51 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:03:51 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:03:51 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 719
+[18-Nov-2021 13:03:51 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 721
+[18-Nov-2021 13:03:51 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 13:07:50 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:07:50 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:07:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 741
+[18-Nov-2021 13:07:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 743
+[18-Nov-2021 13:07:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 782
+[18-Nov-2021 13:12:05 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:12:05 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:12:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 741
+[18-Nov-2021 13:12:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 743
+[18-Nov-2021 13:12:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 782
+[18-Nov-2021 13:13:47 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:13:47 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:13:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 741
+[18-Nov-2021 13:13:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 743
+[18-Nov-2021 13:13:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 782
+[18-Nov-2021 13:14:51 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:14:51 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:14:51 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 751
+[18-Nov-2021 13:14:51 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 753
+[18-Nov-2021 13:14:51 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 792
+[18-Nov-2021 13:15:52 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:15:52 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:15:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 751
+[18-Nov-2021 13:15:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 753
+[18-Nov-2021 13:15:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 792
+[18-Nov-2021 13:17:44 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:17:44 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:17:44 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 751
+[18-Nov-2021 13:17:44 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 753
+[18-Nov-2021 13:17:44 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 792
+[18-Nov-2021 13:18:37 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:18:37 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:18:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 751
+[18-Nov-2021 13:18:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 753
+[18-Nov-2021 13:18:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 792
+[18-Nov-2021 13:19:11 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:19:11 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:19:11 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 751
+[18-Nov-2021 13:19:11 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 753
+[18-Nov-2021 13:19:11 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 792
+[18-Nov-2021 13:19:15 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:19:15 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:19:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 751
+[18-Nov-2021 13:19:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 753
+[18-Nov-2021 13:19:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 792
+[18-Nov-2021 13:21:43 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:21:43 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:21:43 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 757
+[18-Nov-2021 13:21:43 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 759
+[18-Nov-2021 13:21:43 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 798
+[18-Nov-2021 13:22:47 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:22:47 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:22:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 758
+[18-Nov-2021 13:22:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 13:22:47 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 799
+[18-Nov-2021 13:25:10 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:25:10 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:25:10 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 755
+[18-Nov-2021 13:25:10 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 757
+[18-Nov-2021 13:25:10 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 796
+[18-Nov-2021 13:27:59 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:27:59 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:27:59 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 758
+[18-Nov-2021 13:27:59 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 760
+[18-Nov-2021 13:27:59 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 799
+[18-Nov-2021 13:29:15 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:29:15 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:29:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 757
+[18-Nov-2021 13:29:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 759
+[18-Nov-2021 13:29:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 798
+[18-Nov-2021 13:31:54 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:31:54 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[18-Nov-2021 13:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[18-Nov-2021 13:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[18-Nov-2021 13:34:41 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:34:41 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:34:41 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[18-Nov-2021 13:34:41 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[18-Nov-2021 13:34:41 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[18-Nov-2021 13:35:45 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:35:45 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:35:45 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[18-Nov-2021 13:35:45 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[18-Nov-2021 13:35:45 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[18-Nov-2021 13:36:21 UTC] PHP Notice:  Undefined variable: array_type in /home/tarb45ffpmi1/public_html/qz/index.php on line 40
+[18-Nov-2021 13:36:21 UTC] PHP Notice:  Undefined variable: array_id in /home/tarb45ffpmi1/public_html/qz/index.php on line 41
+[18-Nov-2021 13:36:21 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[18-Nov-2021 13:36:21 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[18-Nov-2021 13:36:21 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[18-Nov-2021 13:55:10 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[18-Nov-2021 13:55:10 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[18-Nov-2021 13:55:10 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[18-Nov-2021 13:55:31 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[18-Nov-2021 13:55:31 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[18-Nov-2021 13:55:31 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[30-Nov-2021 11:00:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[30-Nov-2021 11:00:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[30-Nov-2021 11:00:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[30-Nov-2021 16:06:02 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[30-Nov-2021 16:06:02 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[30-Nov-2021 16:06:02 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[30-Nov-2021 16:18:17 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[30-Nov-2021 16:18:17 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[30-Nov-2021 16:18:17 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 18:29:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 18:29:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 18:29:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 18:39:42 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 18:39:42 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 18:39:42 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 18:50:06 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 18:50:06 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 18:50:06 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 19:00:27 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 19:00:27 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 19:00:27 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 19:10:49 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 19:10:49 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 19:10:49 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 19:22:22 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 19:22:22 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 19:22:22 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 20:47:07 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/qz/index.php on line 10
+[02-Dec-2021 20:47:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/qz/index.php on line 12
+[02-Dec-2021 20:47:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/qz/index.php on line 13
+[02-Dec-2021 20:47:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/qz/index.php on line 20
+[02-Dec-2021 20:47:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/qz/index.php on line 25
+[02-Dec-2021 20:47:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/qz/index.php on line 32
+[02-Dec-2021 20:47:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/qz/index.php on line 285
+[02-Dec-2021 20:47:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/qz/index.php on line 331
+[02-Dec-2021 21:00:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 21:00:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 21:00:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795
+[02-Dec-2021 21:09:33 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 754
+[02-Dec-2021 21:09:33 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 756
+[02-Dec-2021 21:09:33 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/qz/index.php on line 795

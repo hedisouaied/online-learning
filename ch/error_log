@@ -1,0 +1,352 @@
+[14-Jun-2021 11:33:47 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:06 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:31 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:34 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[15-Jun-2021 08:23:36 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1076
+[26-Jul-2021 08:49:51 UTC] PHP Warning:  mysqli_connect(): (42000/1203): User smarttec already has more than 'max_user_connections' active connections in /home/tarb45ffpmi1/public_html/connexion.php on line 2
+[26-Jul-2021 08:49:51 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/connexion.php on line 3
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 17
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 23
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 28
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 36
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 64
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 78
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 92
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 630
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 634
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 671
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 675
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1071
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1092
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1096
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1213
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1229
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[26-Jul-2021 08:50:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1232
+[31-Jul-2021 05:27:10 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:27:10 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:27:10 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:17 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:17 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:18 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:18 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:36 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 05:59:36 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 05:59:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 06:08:42 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[31-Jul-2021 06:08:42 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[31-Jul-2021 06:08:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[02-Aug-2021 14:05:33 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[02-Aug-2021 14:05:33 UTC] PHP Notice:  Undefined index: id in /home/tarb45ffpmi1/public_html/ch/index.php on line 16
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 18
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 19
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 24
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 29
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 40
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 65
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 79
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 93
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1070
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1095
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1212
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[02-Aug-2021 14:05:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1231
+[25-Aug-2021 15:55:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[25-Aug-2021 15:55:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[25-Aug-2021 15:55:37 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[25-Aug-2021 15:56:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[25-Aug-2021 15:56:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[25-Aug-2021 15:56:14 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:31:54 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:32:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:32:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:32:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:32:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:32:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:32:12 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:33:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:33:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:33:15 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:38:34 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:38:34 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:38:34 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[31-Aug-2021 08:46:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[31-Aug-2021 08:46:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[31-Aug-2021 08:46:50 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[07-Oct-2021 14:16:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[07-Oct-2021 14:16:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[07-Oct-2021 14:16:05 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[07-Oct-2021 14:16:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[07-Oct-2021 14:16:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[07-Oct-2021 14:16:52 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[21-Oct-2021 11:11:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[21-Oct-2021 11:11:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[21-Oct-2021 11:11:20 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[17-Nov-2021 14:03:00 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[17-Nov-2021 14:03:00 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[17-Nov-2021 14:03:00 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[17-Nov-2021 14:03:00 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[17-Nov-2021 14:05:19 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[17-Nov-2021 14:05:19 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[17-Nov-2021 14:05:19 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 123
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1143
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1154
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1166
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[01-Dec-2021 20:27:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1235
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: all_steps in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[01-Dec-2021 20:27:04 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1255
+[01-Dec-2021 20:27:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1260
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1375
+[01-Dec-2021 20:27:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1377
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1391
+[01-Dec-2021 20:27:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1393
+[01-Dec-2021 20:27:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1396
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[01-Dec-2021 20:27:04 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 123
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1143
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1154
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1166
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[03-Dec-2021 05:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1235
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: all_steps in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 05:41:39 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1255
+[03-Dec-2021 05:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1260
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1375
+[03-Dec-2021 05:41:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1377
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1391
+[03-Dec-2021 05:41:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1393
+[03-Dec-2021 05:41:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1396
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[03-Dec-2021 05:41:39 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 123
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1143
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1154
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1166
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[03-Dec-2021 05:49:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1235
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: all_steps in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 05:49:32 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1255
+[03-Dec-2021 05:49:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1260
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1375
+[03-Dec-2021 05:49:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1377
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1391
+[03-Dec-2021 05:49:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1393
+[03-Dec-2021 05:49:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1396
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[03-Dec-2021 05:49:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 123
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1143
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1154
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1166
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[03-Dec-2021 07:19:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1235
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: all_steps in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 07:19:01 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1255
+[03-Dec-2021 07:19:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1260
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1375
+[03-Dec-2021 07:19:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1377
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1391
+[03-Dec-2021 07:19:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1393
+[03-Dec-2021 07:19:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1396
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[03-Dec-2021 07:19:01 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 123
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1143
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1154
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1166
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[03-Dec-2021 07:42:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1235
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: all_steps in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 07:42:31 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1255
+[03-Dec-2021 07:42:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1260
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1375
+[03-Dec-2021 07:42:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1377
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1391
+[03-Dec-2021 07:42:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1393
+[03-Dec-2021 07:42:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1396
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[03-Dec-2021 07:42:31 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 123
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1143
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1154
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1166
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1228
+[03-Dec-2021 07:43:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1235
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: all_steps in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 07:43:32 UTC] PHP Warning:  Division by zero in /home/tarb45ffpmi1/public_html/ch/index.php on line 1240
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1255
+[03-Dec-2021 07:43:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1260
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1375
+[03-Dec-2021 07:43:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1377
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: array_cour in /home/tarb45ffpmi1/public_html/ch/index.php on line 1391
+[03-Dec-2021 07:43:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1393
+[03-Dec-2021 07:43:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/tarb45ffpmi1/public_html/ch/index.php on line 1396
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1484
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1486
+[03-Dec-2021 07:43:32 UTC] PHP Notice:  Undefined variable: xt in /home/tarb45ffpmi1/public_html/ch/index.php on line 1525

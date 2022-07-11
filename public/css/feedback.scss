@@ -1,0 +1,397 @@
+/* consutlting_resul_area */
+.consutlting_resul_area{
+    display: block;
+    overflow: hidden;
+    padding: 175px 0 115px;
+    .consutlting{
+        h2{
+            font: 700 30px/30px $pop;
+            color: $heding; 
+        }
+        h6{
+            font: 400 16px/30px $ssp;
+            color: $heding;
+            padding: 20px 0 30px;
+        }
+        p{
+            padding-top: 15px;
+        }
+        a{
+            font: 400 16px/30px $pop;
+            color: $heding; 
+            display: block;
+            margin-top: 48px;
+            i{
+                position: relative;
+                font-size: 12px;
+                color: $bc;
+                left: 10px;
+                @include transition;
+            }
+            &:hover, &:focus{
+                color: $bc;
+                i{
+                    left: 15px;
+                }
+            }
+        }
+    }
+    .chart_area{ 
+        #bar-chart {
+            width: 750px;
+            height: 540px;
+//            position: relative;
+//            &:before {
+//                content: "";
+//                position: absolute;
+//                display: block;
+//                width: 240px;
+//                height: 30px;
+//                left: 155px;
+//                top: 254px; 
+//            }
+        } 
+    }
+}
+.cra_2{
+    padding-top: 70px;
+    .chart_area{
+        position: relative;
+        left: -180px;
+    }
+}
+/* End consutlting_resul_area */
+
+/* Entrepreneur_area */
+.entrepreneur_area{
+    padding-bottom: 80px;
+    padding-top: 70px;
+    .entrepreneur_carousel{
+        padding-bottom: 35px;
+        padding-right: 50px;
+        .carousel-inner{
+            .entrepreneur_img{
+                padding: 20px;
+                position: relative;
+                z-index: 1;
+                &:before{
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    bottom: 40px;
+                    max-width: 335px;
+                    right: 0;
+                    display: block;
+                    background: #d9deff;
+                    z-index: -1;
+                    @include transition;
+                }
+                img{
+                    max-width: 100%;
+                }
+                &:hover{
+                    &:before{
+                        max-width: 100%;
+                        bottom: 0;
+                    }
+                }
+            }
+        }
+        .carousel-indicators{ 
+            margin: 0;
+            padding: 0; 
+            bottom: 0;
+            right: auto;
+            left: 65px;
+            li{
+                color: transparent;
+                height: 5px;
+                width: 45px;
+                background: #f0f2ff; 
+                display: inline-block;
+                cursor: pointer; 
+                margin-right: 7px;
+                &:hover, &:focus, &.active{
+                    background: $bc;
+                }
+            }
+        }
+    }
+    .business_angel{
+        padding: 0;
+        padding-top: 18px;
+        margin-left: -15px;
+        h2{
+            font: 700 38px/51px $pop;
+            color: $heding;
+            position: relative; 
+            &:before{
+                content: "E";
+                font: 700 154px/1 $ssp; 
+                color: #f0f2ff;
+                position: absolute;
+                top: -60px;
+                left: -10px;
+                z-index: -1;
+            }
+        }
+        p{
+            font: 600 22px/34px $pop;
+            color: rgba(16, 37, 46, 0.702);
+            padding-top: 25px;
+        }
+        .consulting{
+            padding-top: 45px;
+            li{
+                font: 400 18px/30px $ssp;
+                color: rgba(16, 37, 46, 0.702);
+                padding-left: 60px;
+                margin-top: 20px;
+                position: relative;
+                i:before{
+                    position: absolute;
+                    top: 5px;
+                    left: 0;
+                    font-size: 21px;
+                    color: $bc;
+                }
+            }
+        }
+    }
+}
+.ea_2{
+    padding: 140px 0 130px;
+    .business_angel{
+        padding-left: 15px;
+    }
+    .entrepreneur_carousel{
+        padding-left: 70px;
+        padding-right: 15px;
+        .carousel-inner .entrepreneur_img{
+            padding-right: 0;
+        }
+    }
+}
+.ea_3{
+    padding-top: 40px;
+    .entrepreneur_carousel .carousel-inner .entrepreneur_img2{
+        padding: 18px; 
+        position: relative;
+        z-index: 1;
+        margin-right: 70px;
+        &:last-child{
+            margin: 0;
+        }
+        &:before{
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 40px; 
+            right: 0;
+            display: block;
+            background: #d9deff;
+            z-index: -1;
+            @include transition;
+        }
+        img{
+            max-width: 100%;
+        }
+    } 
+}
+/* End entrepreneur_area */
+
+/* Stay_finances_area */
+.stay_finances_area{
+    background: #fff url("../../images/ellipse-bg.png") no-repeat; 
+    padding-top: 150px;
+    display: block;
+    overflow: hidden;
+    .deliver_promise{
+        width: calc(50% + 85px);
+        float: left;
+        display: inline-block;
+        .stay_finances{
+            max-width: 670px;
+            float: right;
+            padding-right: 20px;
+            h6{
+                font: 400 18px/51px $pop;
+                color: $bc;
+                margin-top: -25px;
+            }
+            h2{
+                font: 600 38px/51px $pop;
+                color: $heding;
+                padding: 30px 0 18px;
+                max-width: 570px;
+            }
+            p{
+                font: 400 18px/36px $ssp;
+                color: $pfont;
+                padding-top: 20px;
+            }
+            .theme_btn{
+                border-radius: 15px;
+                line-height: 55px;
+                min-width: 225px;
+                overflow: hidden;
+                margin-top: 60px;
+            }
+        }
+    }
+    .deliver_promise_video{
+        width: calc(50% - 85px);
+        display: inline-block;
+        float: right;
+        overflow: hidden;
+        position: relative;
+        background: url("../images/video-bg.jpg") no-repeat center;
+        background-size: cover;
+        padding: 180px 0;
+        z-index: 1;
+        &:after{
+            content: "";
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            top: 0;
+            display: block;
+            background-color: rgba(62, 84, 255, 0.749);
+            z-index: -1;
+        }
+        .popup-youtube{
+            background: rgba(62, 84, 255, 0.749);
+            min-width: 230px;
+            width: 230px;
+            margin: 0 auto;
+            height: 182px;
+            justify-content: center;
+            align-items: center;
+            display: flex;
+            i:before{
+                color: #fff;
+                font-size: 40px;
+            }
+        }
+    }
+}
+.sfa_2{
+    margin-top: 80px;
+}
+/* End stay_finances_area */
+ 
+
+/* Testimonial Area */
+.testimonial_area{
+    display: block;
+    overflow: hidden;
+    background: url("../../images/ellipse-bg-2.png") no-repeat center;
+    background-size: cover; 
+    position: relative; 
+    z-index: 2;    
+    text-align: center;
+    padding: 150px 0; 
+    .ts_slider{
+        position: relative;
+        .carousel-item{
+            img{
+                width: 99px;
+                height: 99px; 
+                max-width: 100;
+            }
+            h4{
+                font: 600 20px/30px "Source Sans Pro", sans-serif;
+                color: #10252e;
+                padding: 18px 0; 
+            } 
+            p{ 
+                font: 400 16px/30px "Poppins" sans-serif;
+                color: rgba(0, 0, 0, 0,702);
+                max-width: 770px; 
+                margin: 0 auto;
+                padding-top: 40px;
+                padding-bottom: 85px;
+                position: relative;
+                &:after{
+                    content: "";
+                    position: absolute;
+                    left: 0;
+                    right: 0;
+                    bottom: 0;
+                    display: block;
+                    width: 94px;
+                    height: 2px;
+                    background: #3e54ff; 
+                    margin: 0 auto;
+                }
+            }
+        }
+        .carousel-control-prev1, .carousel-control-next1{
+            line-height: 40px;
+            width: 40px;
+            text-align: center;
+            font-size: 20px;
+            color: #fff;
+            background: $bc;
+            height: 40px;
+            top: 50%;
+           // display: none;
+        }
+        &:hover{
+            .carousel-control-prev1, .carousel-control-next1{
+                display: block;
+            }
+        }
+    }
+}
+.ta_2{
+    background: url("../images/ellipse-bg-3.png") no-repeat;
+    padding-bottom: 175px;
+}
+.ta_3{
+    padding-bottom:260px;
+}
+.ta_4{
+    background: url("../images/ellipse-bg-8.png") no-repeat top left;
+    padding-bottom: 125px;
+    .testimonial_row{
+        padding-top: 280px;
+        .testimonial_team{
+            text-align: center;
+            background: #fff;
+            box-shadow: 0px 0px 36px 0px rgba(213, 210, 210, 0.56);
+            padding: 40px;
+            border-bottom: 1px solid $bc;
+            margin-bottom: 30px;
+            img{
+                border-radius: 50%;
+                max-width: 100%;
+                border: 1px solid #f3f3f3;
+            }
+            p{
+                font: 400 18px/36px $ssp;
+                color: #101010;
+                padding-top: 30px;
+            }
+            a{
+                display: block;
+                font: 600 18px/1 $ssp;
+                color: #101010;
+                padding: 30px 0 20px;
+                &:hover, &:focus{
+                    color: $bc;
+                }
+            }
+            h6{
+                font: 400 16px/1 $ssp;
+                color: $pfont; 
+                padding-bottom: 10px;
+            }
+        }
+    }
+}
+/* Testimonial Area */
+ 
